@@ -1,0 +1,16 @@
+{
+  "name": "react-element-proptypes",
+  "version": "0.0.1",
+  "description": "React PropTypes for props-elements",
+  "main": "lib/ElementPropTypes.js",
+  "repository": "https://github.com/wizardzloy/react-element-proptypes.git",
+  "author": "Vladimir Guguiev <wizardzloy@gmail.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "tape lib/**/*.spec.js"
+  },
+  "devDependencies": {
+    "react": "^15.4.1",
+    "tape": "^4.6.3"
+  }
+}
